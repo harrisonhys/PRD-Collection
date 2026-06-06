@@ -451,18 +451,3 @@ Platform Simulasi UTBK Online diposisikan sebagai produk tryout yang fokus pada 
 Jika diringkas, positioning produknya adalah:
 
 > Platform tryout UTBK yang membantu peserta berlatih lebih serius dan membantu lembaga menjalankan simulasi massal dengan hasil, ranking, dan pembahasan yang jelas.
-
-## 17. Kesimpulan
-
-Platform Simulasi UTBK Online layak diposisikan sebagai produk belajar dan tryout yang kuat secara bisnis karena punya kebutuhan yang jelas, pasar yang relevan, dan potensi monetisasi yang mudah dipahami.
-
-Fokus paling penting untuk tahap awal adalah:
-
-- peserta bisa daftar event,
-- peserta bisa mengerjakan ujian dengan nyaman,
-- jawaban tersimpan dengan aman,
-- hasil dan ranking keluar dengan cepat,
-- biaya server tetap terkendali,
-- dan produk punya margin profit yang masuk akal.
-
-Jika diperlukan, dokumen ini bisa dilanjutkan menjadi versi BA yang lebih formal dengan detail user journey, business rule per fitur, dan prioritas MVP.
